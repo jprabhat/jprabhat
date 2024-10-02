@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@jha_jprabhat" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40jha_jprabhat&subtitle=@jha_jprabhag&size=square" alt="Prabhat Jha">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40jha_jprabhat&subtitle=@jha_jprabhat&size=square" alt="Prabhat Jha">
       </a>
     </td>
     <td align="center">
