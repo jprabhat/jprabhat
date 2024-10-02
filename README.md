@@ -5,7 +5,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Prabhat Jha</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=IT+Engineer;Block+Learner;Cloud+Engineer;AI+Engineer;Security-Researcher;Writer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=IT+Engineer;Blockchain+Learner;Cloud+Engineer;AI+Engineer;Security-Researcher;Writer" alt="Typing SVG" />
 
 </p>
 
