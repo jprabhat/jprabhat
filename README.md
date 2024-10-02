@@ -28,12 +28,12 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/prabhat-jha-379017286/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprabhat-jha-379017286%2F&subtitle=@Prabhat+Jha&size=square" alt="Prabhat Jha">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprabhat-jha-379017286%2F&subtitle=@jha_jprabhat&size=square" alt="Prabhat Jha">
       </a>
     </td>
    <td align="center">
   <a href="https://github.com/jprabhat" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2jprabhat&subtitle=jprabhat&size=square" alt="jprabhat">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2jprabhat&subtitle=@jha_jprabhat&size=square" alt="jprabhat">
   </a>
 </td>
 
