@@ -101,7 +101,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
     <tr>
       <td>
         <a href="https://github.com/jprabhat/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=jprabhat&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
@@ -136,16 +136,12 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 ### Prabhat/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
-
-<!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
-
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Prabhat&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RAFIKSHA/RAFIKSHA&type=Date&theme=dark" />
+  <a href="https://star-history.com/#jprabhat/jprabhat&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jprabhat/jprabhat&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -232,7 +228,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/jha_jprabhat?border=0&radius=20"/>
 </p>
 
 
@@ -633,7 +629,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
+  <a href="https://wa.me/917643945161" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7643945161&size=square" alt="India-+91-764-394-5161" style="margin: 10px;">
   </a>
 </td>
