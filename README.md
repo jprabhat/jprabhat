@@ -59,50 +59,11 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jprabhat&theme=highcontrast&hide_border=true" alt="jprabhat's Profile Details">
 
-
-### GitHub Contribution Chart
-<a href="https://github.com/jprabhat">
-    <img src="https://ghchart.rshah.org/jprabhat" alt="Prabhat's GitHub Contribution Chart">
-</a>
-
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/jprabhat?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Prabhat's GitHub Stats">
-
-  <img src="https://github-readme-bento.vercel.app/stats/jprabhat?theme=dark" alt="Prabhat's GitHub Stats">
-</details>
-
 <br>
 
 ### Prabhat/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Prabhat&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#jprabhat/jprabhat&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jprabhat/jprabhat&type=Date&theme=dark" />
-  </a>
-</details>
-
 
 <br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jprabhat&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-</details>
-
-
-
-
 </div>
 
 <h2 align="center">Socials Stats</h2>
