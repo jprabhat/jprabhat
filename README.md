@@ -58,10 +58,6 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=jprabhat&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jprabhat&custom_title=jprabhat's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
-<br>
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=jprabhat&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="jprabhat's GitHub stats">
 
