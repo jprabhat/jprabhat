@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Technical Stududent | Coder | Writer
+  Technical Student | Coder | Writer
 </p>
 
 <div align="center">
@@ -56,11 +56,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=jprabhat&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jprabhat&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="jprabhat's GitHub stats">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jprabhat&theme=highcontrast&hide_border=true" alt="jprabhat's Profile Details">
 
 
