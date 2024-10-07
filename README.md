@@ -136,12 +136,10 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Backend</th>
-      <th colspan="3" align="center" style="color: white;">Database</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- Backend -->
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
@@ -152,10 +150,22 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
         <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/><br>Express
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-      <!-- Database -->
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
