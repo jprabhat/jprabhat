@@ -131,7 +131,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 
 
 
-<div >
+<div align="center" >
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -157,7 +157,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 </table>
 </div>
 
-<div >
+<div align="center" >
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -166,7 +166,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <td  style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
