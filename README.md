@@ -175,7 +175,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+      <th colspan="5" align="center" style="color: white;">Containerization, Orchestration & Cloud Providers</th>
     </tr>
   </thead>
   <tbody>
@@ -185,6 +185,15 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
     </tr>
   </tbody>
