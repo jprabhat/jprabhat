@@ -83,7 +83,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
+      <th colspan="8" align="center" style="color: white;">Frontend and Backend</th>
     </tr>
   </thead>
   <tbody>
@@ -123,6 +123,9 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
           <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
         </a>
         <br>CSS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
     </tr>
   </tbody>
