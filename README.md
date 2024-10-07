@@ -131,11 +131,11 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 
 
 
-<div align="center">
+<div >
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Backend and Database</th>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
     </tr>
   </thead>
   <tbody>
@@ -157,7 +157,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 </table>
 </div>
 
-<div align="center">
+<div >
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
