@@ -166,7 +166,7 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
   </thead>
   <tbody>
     <tr>
-      <td  style="border: none;">
+      <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
