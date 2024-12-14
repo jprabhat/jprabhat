@@ -211,32 +211,10 @@ As an IT student at Mumbai University, I am actively learning Blockchain and Art
 
 
 <h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:jprabhat25@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=jprabhat25@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-  <a href="https://wa.me/917643945161" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7643945161&size=square" alt="India-+91-764-394-5161" style="margin: 10px;">
-  </a>
-</td>
-
-  </tr>
-</table>
-
-
-
-<br>
-
 <h3>
 <div align="center">
   
 ⭐️ From [PRABHAT](https://github.com/jprabhat) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
-
 
 </div>
 </h3>
