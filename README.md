@@ -14,34 +14,6 @@
 </p>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/@jha_jprabhat" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40jha_jprabhat&subtitle=@jha_jprabhat&size=square" alt="Prabhat Jha">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/jha_jprabhat/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fjha_jprabhat%2F&subtitle=@jha_jprabhat&size=square" alt="Prabhat Jha">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/prabhat-jha-379017286/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprabhat-jha-379017286%2F&subtitle=@jha_jprabhat&size=square" alt="Prabhat Jha">
-      </a>
-    </td>
-   <td align="center">
-  <a href="https://github.com/jprabhat" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2jprabhat&subtitle=@jha_jprabhat&size=square" alt="jprabhat">
-  </a>
-</td>
-
-  </tr>
-</table>
-
-
-<br>
 
 
 <p align="center">
